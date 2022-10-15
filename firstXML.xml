@@ -1,0 +1,19 @@
+<? xml version="1.0" encoding="UTF-8"?>
+<library>
+   <technical books>
+      <ISBN>9780132350884</ISBN>
+	  <title>Clean Code</title>
+      <author>Robert Martin</author>
+	  <ISBN>9788177588583</ISBN>
+	  <title>"Programming Pearls"</title>
+	  <author>Jon Bentley</author>
+   </technical books>
+   <horror books>
+      <ISBN>9781444708141</ISBN>
+	  <title>"Salem's Lot"</title>
+      <author>Stephen King</author>
+	  <ISBN>9781503261389</ISBN>
+	  <title>"Dracula"</title>
+	  <author>Bram Stoker</author>
+   </cookery books>
+</library>
